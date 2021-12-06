@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093802877974",
+    "project_id": "smart-optician",
+    "storage_bucket": "smart-optician.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093802877974:android:51b9b8fcf54d5e6f194137",
+        "android_client_info": {
+          "package_name": "com.example.smart_optician"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093802877974-n39n6i5rbht2vkcipq2ffj0nm0ignvfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY0m61qshl6y-De0puK7DhYmiIy0WIWbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093802877974-n39n6i5rbht2vkcipq2ffj0nm0ignvfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
